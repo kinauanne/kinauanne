@@ -1,5 +1,5 @@
 - 👋 ola, Me chamo Kinauanne Menezes Ramos
 -    Atualmente estou cursando no Senac
--    Esotu cursando tecnico de informática
--    Estou aprendendo javascripti, nodejs, sql
+-    Estou cursando tecnico de informática
+-    Estou aprendendo javascript, nodejs, sql
 -    Meu email: kinauannemenezes@gmail.com
